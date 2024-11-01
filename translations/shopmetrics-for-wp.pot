@@ -1,0 +1,193 @@
+# Copyright (C) 2014 Shop Metrics Report for WP
+# This file is distributed under the same license as the Shop Metrics Report for WP package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Shop Metrics Report for WP 1.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/shopmetrics-for-wp\n"
+"POT-Creation-Date: 2014-10-17 14:44:32+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: admin/class-admin.php:56
+msgid "Settings saved!"
+msgstr ""
+
+#: admin/class-admin.php:65
+msgid "Please configure your Shop Metrics Report API keys on the %1$sSettings page%2$s and enable your specific plugin."
+msgstr ""
+
+#: admin/class-admin.php:72 admin/class-admin.php:79 admin/class-admin.php:88
+#: admin/class-admin.php:97
+msgid "Shop Metrics:"
+msgstr ""
+
+#: admin/class-admin.php:72
+msgid "Basic API settings"
+msgstr ""
+
+#: admin/class-admin.php:72
+msgid "Shop Metrics"
+msgstr ""
+
+#: admin/class-admin.php:79
+msgid "Basic API Settings"
+msgstr ""
+
+#: admin/class-admin.php:80
+msgid "Settings"
+msgstr ""
+
+#: admin/class-admin.php:88 admin/class-admin.php:89
+msgid "Synchronize orders"
+msgstr ""
+
+#: admin/class-admin.php:97
+msgid "Test API Connection"
+msgstr ""
+
+#: admin/class-admin.php:98
+msgid "Test API connection"
+msgstr ""
+
+#: admin/class-admin.php:152
+msgid "The settings are saved successfully! You can now test your connection and your orders will appear in your Shop Metrics Report dashboard."
+msgstr ""
+
+#: admin/class-admin.php:161
+msgid "Please fill in a valid salt and pepper! You can <a href=\"https://dashboard.shopmetrics.report/account/webshops\" target=\"_blank\">retrieve them here</a>."
+msgstr ""
+
+#: admin/class-admin.php:307
+msgid "The sync is successfully completed! The synchronization process has synced "
+msgstr ""
+
+#: admin/class-admin.php:307
+msgid " order(s)."
+msgstr ""
+
+#: admin/class-admin.php:309
+msgid "No orders synced, please <a href=\"https://shopmetrics.report/support\" target=\"_blank\">contact us</a>."
+msgstr ""
+
+#: admin/class-admin.php:315
+msgid "Please make sure you have configured your Salt and Pepper before using this function!"
+msgstr ""
+
+#: admin/pages/settings.php:1
+msgid "Shop Metrics Report - Settings"
+msgstr ""
+
+#: admin/pages/settings.php:2
+msgid "Manage your settings here of the Shop Metrics for WooCommerce plugin. Once you have configured your webshop on <a href=\"https://shopmetrics.report\" target=\"_blank\">ShopMetrics.report</a> and you have generated the Salt and Pepper for your webshop, you can enable this plugin. The plugin should push your orders to Shop Metrics to analyze them and generate stunning charts."
+msgstr ""
+
+#: admin/pages/settings.php:7
+msgid "Use data from this plugin"
+msgstr ""
+
+#: admin/pages/settings.php:8
+msgid "Track plugins"
+msgstr ""
+
+#: admin/pages/settings.php:11
+msgid "None"
+msgstr ""
+
+#: admin/pages/settings.php:14
+msgid "WooCommerce (WC)"
+msgstr ""
+
+#: admin/pages/settings.php:14 admin/pages/settings.php:17
+msgid "Installed!"
+msgstr ""
+
+#: admin/pages/settings.php:17
+msgid "Easy Digital Downloads (EDD)"
+msgstr ""
+
+#: admin/pages/settings.php:18
+msgid "Help! The plugin I want to use isn't listed here.."
+msgstr ""
+
+#: admin/pages/settings.php:23
+msgid "Webshop API Salt"
+msgstr ""
+
+#: admin/pages/settings.php:27
+msgid "Webshop API Pepper"
+msgstr ""
+
+#: admin/pages/settings.php:34
+msgid "Save settings"
+msgstr ""
+
+#: admin/pages/sync.php:1
+msgid "Shop Metrics for WooCommerce - Synchronize orders"
+msgstr ""
+
+#: admin/pages/sync.php:2
+msgid "With this synchronize function, you can sync all your webshop orders to Shop Metrics. This enables you to use al your old orders in the account, and also when an order didn't come through at Shop Metrics."
+msgstr ""
+
+#: admin/pages/sync.php:3
+msgid "Important: When we already have your order in our system, we just update it. We don't create a new record for that, so you can use this function more than one time."
+msgstr ""
+
+#: admin/pages/sync.php:15
+msgid "To start the synchronize process, please click the button below. This may take a little bit of your time. Having trouble with your plugin? Please check our <a href=\"https://shopmetrics.report/support\" target=\"_blank\">support page</a>."
+msgstr ""
+
+#: admin/pages/sync.php:20
+msgid "Start synchronize process"
+msgstr ""
+
+#: admin/pages/test.php:1
+msgid "Shop Metrics for WooCommerce - Test API Connection"
+msgstr ""
+
+#: admin/pages/test.php:2
+msgid "The testresults are listed below. Please make sure you have filled in your webshop salt and pepper."
+msgstr ""
+
+#: admin/pages/test.php:8
+msgid "Action"
+msgstr ""
+
+#: admin/pages/test.php:9
+msgid "Result"
+msgstr ""
+
+#: admin/pages/test.php:13
+msgid "Connection to API"
+msgstr ""
+
+#: admin/pages/test.php:21
+msgid "Test salt and pepper"
+msgstr ""
+
+#: admin/pages/test.php:30
+msgid "Result domain"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "Shop Metrics Report for WP"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://shopmetrics.report/shop-metrics-wordpress-plugin#utm_source=WordPress_Plugin_Overview&utm_medium=link&utm_campaign=plugin_link"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "The Shop Metrics Report plugin for WP helps you with integrating your webshop(s) to our API. Generate the best charts and analytics from your order data. This plugin is compatible with WooCommerce (and more E-Commerce systems will be added soon)."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Van Wilderen ICT"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://shopmetrics.report/#utm_source=WordPress_Plugin_Overview&utm_medium=link&utm_campaign=plugin_link"
+msgstr ""
